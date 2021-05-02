@@ -1,1 +1,1 @@
-# Centipede
+This is a modified version of the popular 1980 Attari game Centipede implemented using MIPS assembly. Game controls: "j" key makes the Bug Blaster move to the left, "k" key makes the Bug Blaster move to the right. "x" key makes the Bug Blaster shoot at the centipede, "s" restarts the game.
